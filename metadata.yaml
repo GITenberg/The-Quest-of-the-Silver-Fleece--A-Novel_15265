@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/226
     wikipedia: http://en.wikipedia.org/wiki/W._E._B._DuBois
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15265#The-Quest-of-the-Silver-Fleece--A-Novel
 gutenberg_bookshelf: African American Writers
 gutenberg_issued: '2005-03-05'
 gutenberg_type: Text
